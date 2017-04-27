@@ -1,0 +1,45 @@
+{
+ "title": "Civics Flash Cards",
+  "cards": [
+    {
+      "front": "What is the suppreme law of the land?",
+      "back": "the Constitution"
+    },
+    {
+      "front": "The idea of self-government is in the first three words of the Constitution. What are thesewords?",
+      "back": "we the people"
+    },
+    {
+      "front": "How many amendments does the Constitution have?",
+      "back": "27"
+    },
+    {
+      "front": "Who is in charge of the executive branch?",
+      "back": "the president"
+    },
+    {
+      "front": "How many U.S. Senatorsare there?",
+      "back": "100"
+    },
+    {
+      "front": "We elect a U.S. Senator for how many years?",
+      "back": "6"
+    },
+    {
+      "front": "The House of Representatives has how many voting members?",
+      "back": "435"
+    },
+    {
+      "front": "We elect a President for how many years?",
+      "back": "4"
+    },
+    {
+      "front": "In what month do we vote for President?",
+      "back": "november" 
+    },
+    {
+      "front": "Who signs bills to become laws?",
+      "back": "the president"
+    }
+  ]
+}

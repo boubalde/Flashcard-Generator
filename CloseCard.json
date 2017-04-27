@@ -1,0 +1,55 @@
+{
+
+  "title": "Black History",
+ "cards": [
+		{
+			"text": "Colin Powell is First Chairman of the Joint Chiefs of Staff",
+			"cloze": "Colin Powell"
+		},
+
+		{
+			"text": "Barack Obama is first black president",
+			"cloze": "Barack Obama"
+		},
+
+		{
+			"text": ".... is first black RNC chairman.",
+			"cloze": "Michael Steele"
+		},
+
+		{
+			"text": ".... is first black recipient of the Nobel Prize for litterature.",
+			"cloze": "Toni Morisson"
+		},
+
+		{
+			"text": "Freedom's Journal is first african American neewspaper",
+			"cloze": "Freedom's Journal"
+		},
+
+		{
+			"text": "Hattie McDaniel is first black person to win an oscar",
+			"cloze": "Hattie McDaniel"
+		},
+
+		{
+			"text": "Ella Fitzgerald is first black female to win a Grammy",
+			"cloze": "Ella Fitzgerald"
+		},
+
+		{
+			"text": "Bill Cosby is first black star of a network tv show.",
+			"cloze": "Bill Cosby"
+		},
+
+		{
+			"text": "Jackie Robinson is first black major league baseball player",
+			"cloze": "Jackie Robinson"
+		}, 
+		
+		{
+			"text": "Oprah Winfrey is first black female to host a TV",
+			"cloze": "Oprah Winfrey"
+		}
+	]
+}
