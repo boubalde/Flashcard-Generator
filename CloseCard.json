@@ -13,12 +13,12 @@
 		},
 
 		{
-			"text": ".... is first black RNC chairman.",
+			"text": "Michael Steele is first black RNC chairman.",
 			"cloze": "Michael Steele"
 		},
 
 		{
-			"text": ".... is first black recipient of the Nobel Prize for litterature.",
+			"text": "Toni Morisson is first black recipient of the Nobel Prize for litterature.",
 			"cloze": "Toni Morisson"
 		},
 
@@ -46,7 +46,7 @@
 			"text": "Jackie Robinson is first black major league baseball player",
 			"cloze": "Jackie Robinson"
 		}, 
-		
+
 		{
 			"text": "Oprah Winfrey is first black female to host a TV",
 			"cloze": "Oprah Winfrey"
